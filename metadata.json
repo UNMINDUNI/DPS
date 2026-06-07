@@ -1,0 +1,6 @@
+{
+  "name": "Heron & Langley",
+  "description": "An elegant, interactive visual lore compendium and atmospheric scene weaver for the modern British class drama, Heron & Langley.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
