@@ -469,9 +469,9 @@ export default function App() {
                 <div className="animate-fadeIn space-y-4">
                   <div className="flex flex-col md:flex-row md:items-center justify-between gap-2 border-b border-[#1e1e26]/60 pb-3">
                     <div>
-                      <span className="text-[10px] text-[#b8963c] tracking-widest uppercase block font-serif">시네마틱 앨범 (Cinematic Gallery)</span>
+                      <span className="text-[10px] text-[#b8963c] tracking-widest uppercase block font-serif">앨범 (Gallery)</span>
                       <span className="text-xs text-[#5a5650] block mt-0.5 font-sans">
-                        대상의 시각적 모티브와 서사를 상징하는 시네마틱 컷 (클릭 시 확대 감상 가능)
+                        클릭 시 확대 감상 가능
                       </span>
                     </div>
                     <span className="text-[10px] font-mono text-[#b8963c] border border-[#2a2418] px-2.5 py-1 rounded bg-[#07080b]">
@@ -505,7 +505,7 @@ export default function App() {
 
                   <div className="p-3 bg-[#131520]/20 border border-[#1e1e26] rounded text-xs text-[#5a5650] flex gap-3 items-center">
                     <Sparkles className="h-3.5 w-3.5 text-[#b8963c] flex-shrink-0" />
-                    <span>프레임을 선택하면 영국의 정적과 무드가 깃든 고전 비율 시네마틱 뷰어가 가동됩니다.</span>
+                    <span>클릭시 확대 가능</span>
                   </div>
                 </div>
               )}
