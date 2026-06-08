@@ -351,8 +351,8 @@ export const CLASS_TIERS: ClassTier[] = [
   },
   {
     tier: "Tier 3 → 5",
-    name: "락 가문 (Fallen Langleys)",
-    desc: "랭글리 가문. 전통 있는 귀족 전문직이자 세브노크스의 대저택 소유주였으나 2016년 원인 미상의 파산 공식화.",
+    name: "몰락 가문 (Fallen Langleys)",
+    desc: "랭글리 가문. 전통 있는 귀족, 전문직이자 세브노크스의 대저택 소유주였으나 2016년 원인 미상의 파산 공식화.",
     context: "모든 보호막이 단 하루 만에 제거되었으며, 세바스찬마저 가을날 돌연 실종된 이후 9년간 런던의 차가운 눈총을 맨몸으로 받아냈다.",
     active: true,
     fallen: true
